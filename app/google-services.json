@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435133927328",
+    "firebase_url": "https://saathealth-66e5a.firebaseio.com",
+    "project_id": "saathealth-66e5a",
+    "storage_bucket": "saathealth-66e5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435133927328:android:29b36cce8ffc320aaa9ec5",
+        "android_client_info": {
+          "package_name": "com.example.saathealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435133927328-8bjhttnk3btuppalao5t70djj4rcqa0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saathealth",
+            "certificate_hash": "b05945a7abbb186e078d520741f53be972cfea6c"
+          }
+        },
+        {
+          "client_id": "435133927328-s03jpk0bei9vf4s1kvs1r38lfafdf2ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvnyVVKERi_ialEwu9Lxu_peh4o6QaXC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435133927328-s03jpk0bei9vf4s1kvs1r38lfafdf2ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
